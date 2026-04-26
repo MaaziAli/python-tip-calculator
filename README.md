@@ -11,7 +11,7 @@ A simple command-line Tip Calculator built in Python.
 - Python
 
 ## 📸 Screenshot
-![Tip Calculator Output](screenshot.png)
+![Tip Calculator Output](Screenshot.png)
 
 ## 📚 What I Learned
 - User input handling
